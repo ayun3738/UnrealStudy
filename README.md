@@ -1,2 +1,2 @@
-# UnrealStudy
-언리얼 공부 정리
+# CodingStudy
+코딩 공부 정리
