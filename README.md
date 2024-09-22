@@ -3,4 +3,4 @@
 
 ## 개발 환경 설정
 
-vscode로 설정 : https://3dlecture.tistory.com/
+vscode로 설정 : https://rasino.tistory.com/307
