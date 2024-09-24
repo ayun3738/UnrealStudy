@@ -6,7 +6,12 @@ int main()
 
     int A, B, V;
     scanf("%d %d %d", &A, &B, &V);
-    printf("%d", (V-A)/(A-B)+1);
+    if (V <= A)
+        printf("1");
+    else
+    {
+        printf("%d", (V-A-1)/(A-B) + 2);
+    }
 
     return 0;
 }
