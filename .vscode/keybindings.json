@@ -1,0 +1,14 @@
+// Place your key bindings in this file to override the defaults
+[
+    // 컴파일
+    {
+        "key": "ctrl+shift+c",
+        "command": "workbench.action.tasks.build"
+    },
+    // 실행
+    {
+        "key": "ctrl+shift+r",
+        "command": "workbench.action.tasks.test"
+    },
+
+]
